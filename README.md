@@ -5,3 +5,5 @@ Learning about Git!
 Some more edits in this version!
 
 Adding feature 1
+
+Adding feature 3
