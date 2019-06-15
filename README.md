@@ -10,4 +10,6 @@ Adding feature 3
 
 Adding feature 4 directly in main branch!
 
-Adding feature 5 directly in main branch from Github!
+Adding feature 5 directly in main branch from Github
+
+Adding feature 6 directly in main branch from command line!
